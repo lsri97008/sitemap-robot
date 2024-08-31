@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /index.php
 
-Sitemap: https://www.repostos.es/sitemap.xml
+Sitemap: https://go2lk.com/sitemap.xml
