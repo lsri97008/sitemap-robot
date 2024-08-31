@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /index.php
 
-Sitemap: http://sagenv.com/sitemap.xml
+Sitemap: https://www.repostos.es/sitemap.xml
