@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /index.php
 
-Sitemap: https://lionssports.academy/sitemap.xml
+Sitemap: https://kutur.cl/sitemap.xml
