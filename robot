@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /index.php
 
-Sitemap: https://kutur.cl/sitemap.xml
+Sitemap: https://onp.mx/sitemap.xml
