@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /index.php
 
-Sitemap: https://onp.mx/sitemap.xml
+Sitemap: https://yasna-poliana.ua/sitemap.xml
